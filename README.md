@@ -1,4 +1,4 @@
-![Banner Image](./banner.jpg)
+![Banner Image](./banner.png)
 
 <h2 align="left">Hi, I'm AbdulJabar 👋🏾</h2>
 <h3 align="left">A passionate software developer from Tanzania 📍🇬🇧</h3>
