@@ -1,7 +1,7 @@
 
 
 <h2 align="left">Hi, I'm AbdulJabar 👋🏾</h2>
-<h3 align="left">A passionate software developer from Tanzania </h3>
+<h3 align="left">A passionate software developer </h3>
 
 <h4 align="left">About me:</h4>
 <p align="left">
