@@ -10,7 +10,7 @@ I'm a 23-year-old software engineer diving into the world of front-end developme
 
 - 🔭 I’m currently working on **front-end development**
 - 🌱 I’m currently learning **HTML & CSS**
-- 📫 How to reach me: <a href="https://www.instagram.com/jabs_codes/" target="_blank" rel="noopener noreferrer">@jabs_codes</a> on Instagram
+- 📫 How to reach me: <a href="https://www.instagram.com/jabs_codes/" target="_blank" rel="noopener noreferrer">@jabz.dev</a> on Instagram
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
