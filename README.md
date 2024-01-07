@@ -1,11 +1,11 @@
 ![Banner Image](./banner.png)
 
 <h2 align="left">Hi, I'm AbdulJabar 👋🏾</h2>
-<h3 align="left">A passionate software developer from Tanzania 📍🇬🇧</h3>
+<h3 align="left">A passionate software developer from Tanzania </h3>
 
 <h4 align="left">About me:</h4>
 <p align="left">
-I'm a 22-year-old software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, I'm turning that fascination into innovation.
+I'm a 23-year-old software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, I'm turning that fascination into innovation.
 </p>
 
 - 🔭 I’m currently working on **front-end development**
